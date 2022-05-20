@@ -1,6 +1,6 @@
 # Multiple Object Tracking (MOT)
 
-MOT is a 2-player game where two participants track objects apearing on the screen on two different PCs.
+MOT is a 2-player game where two participants track objects appearing on the screen on two different PCs.
 By starting the game, some 18 round objects will appear on the screen. Five of these objets are turned grey randomly for 
 a few seconds and all objects will start moving randomly in space. Throughout this time participants are asked to gaze their 
 attention to a center point on the screen. After 10 seconds the objects stop moving and participants are required to select
